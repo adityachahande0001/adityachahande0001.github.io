@@ -9,4 +9,5 @@ Brand statement: Aditya Chahande helps companies in Dallas make sense of complic
 Area of interest/experience: Statistics & mathematics
 
 Professional picture: 
+
 ![Professional picture](/assets/images/professionalpicture01025675.jpeg)
